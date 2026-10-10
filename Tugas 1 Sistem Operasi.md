@@ -21,11 +21,11 @@ Sebelum instalasi, siapkan:
 
 1. **File ISO Ubuntu Linux**, unduh melalui [situs resmi Ubuntu](https://ubuntu.com/download/desktop).
 
-   ![Halaman unduhan Ubuntu](images/01-download-ubuntu.png)
+   ![Gambar 1](01-download-ubuntu.png)
 
 2. **Rufus versi Portable**, unduh melalui [situs resmi Rufus](https://rufus.ie/id/).
 
-   ![Pilihan unduhan Rufus, termasuk versi Portable](images/02-download-rufus.png)
+   ![Gambar 2](02-download-rufus.png)
 
 3. **Flashdisk minimal 16 GB**.
 4. **Koneksi internet**.
@@ -36,11 +36,11 @@ Sebelum instalasi, siapkan:
 
 Buka **Disk Management** pada Windows, kemudian buat partisi tambahan untuk penyimpanan Ubuntu. Pada dokumen tugas, disarankan membuat partisi **minimal 15 GB**.
 
-![Disk Management sebelum membuat partisi Ubuntu](images/03-disk-management.png)
+![Gambar 3](03-disk-management.png)
 
 Setelah selesai, akan muncul partisi tambahan seperti pada gambar berikut.
 
-![Hasil pembuatan partisi tambahan di Disk Management](images/04-hasil-partisi.png)
+![Gambar 4](04-hasil-partisi.png)
 
 ### 2. Menyiapkan flashdisk installer dengan Rufus
 
@@ -50,7 +50,7 @@ Buka **Rufus**, lalu:
 2. Masukkan **file ISO Ubuntu** pada bagian **Boot selection**.
 3. Isi nama flashdisk pada bagian **Volume label**.
 
-![Pengaturan awal aplikasi Rufus](images/05-pengaturan-rufus.png)
+![Gambar 5](05-pengaturan-rufus.png)
 
 ### 3. Memulai pembuatan bootable USB
 
@@ -84,7 +84,7 @@ Lanjutkan konfigurasi dengan membuat atau mengisi akun pengguna, mengunduh aplik
 
 Jika semua langkah berhasil, Ubuntu siap digunakan dan akan menampilkan desktop seperti berikut.
 
-![Tampilan desktop Ubuntu setelah instalasi](images/06-tampilan-ubuntu.png)
+![Gambar 6](06-tampilan-ubuntu.png)
 
 ## Catatan Penting
 
