@@ -1,10 +1,3 @@
-Nama : M.Rizky Putra Wijaya
-
-Kelas : SKU3A
-
-NIM : 09011382530139
-
-
 # Tugas 1 Sistem Operasi: Tutorial Instalasi Ubuntu Linux
 
 **Nama:** M. Rizky Putra Wijaya  
